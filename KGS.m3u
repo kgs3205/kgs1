@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1,KBS1
+udp://239.192.38.1:49220
+#EXTINF:-1,KBS1
 http://140.238.16.178:9876/stream/channelid/431794630
 #EXTINF:-1,KBS2
 http://140.238.16.178:9876/stream/channelid/1531980965
