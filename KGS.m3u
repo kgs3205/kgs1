@@ -200,4 +200,4 @@ http://140.238.16.178:9876/stream/channelid/1679131217
 #EXTINF:-1,bravo kids
 http://140.238.16.178:9876/stream/channelid/919414479
 #EXTINF:-1,EBS
-udp://239.192.42.1:49220
+http://140.238.16.178:9876/stream/channelid/40306692
