@@ -28,49 +28,43 @@ plugin://plugin.video.wavvem/?contentid=E18&mode=LIVE
 #EXTINF:0,ANIONE
 plugin://plugin.video.wavvem/?contentid=C4402&mode=LIVE
 #EXTINF:0,KBS 1TV
-plugin://plugin.video.wavvem/?contentid=K01&mode=LIVE
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=K01
 #EXTINF:0,KBS 2TV
-udp://239.192.39.1:49220/KBS2
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=K02
 #EXTINF:0,MBC
-udp://239.192.40.26:49220/지상파 ■ MBC
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=M01
 #EXTINF:0,SBS
-udp://239.192.41.2:49220/지상파 ■ SBS
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=S01
 #EXTINF:0,JTBC
-https://jtbc-mcdn.tving.com/jtbc/live1500.smil/playlist.m3u8|Cookie=CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IioiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTM0ODUwMTB9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19;CloudFront-Signature=UIrjSXT1XYQhDyV0FE9Q1dNK5ZYZk4ECT2isYgcpFcGBTH5rgyf4OcKMim79vdBJ15RWJGbUnojq46vrPGbbb~wP1dPY0w7fUqu7EVVFbLUsP4HxxljEFfIssvEpmQeNovw50NJBOJARIu~hDK2xukkjgLfkXtxty6-WXf6OhSyr26~bWnhzYfmlzmQ~9t~PT40kfDleKnGxedmQiZDqCCKRxsvzoxl8ksSj9skiL4Pxa90u4MPnqVs3POqsyo2smG1gmasjEvB7La74RX9keHm9BUWWouPoWxuAmfrRpzSk085pGc~CQid0IkwUXbzPNy-abki-iJlnep2vOJzU5Q__;CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C01582&stype=onair
 #EXTINF:0,TV CHOSUN
 plugin://plugin.video.wavvem/?contentid=C2601&mode=LIVE
 #EXTINF:0,YTN
-udp://239.192.47.7:49220/NEWS ■ YTN
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=C2101
 #EXTINF:0,연합뉴스TV
-udp://239.192.57.3:49220/NEWS ■ 연합뉴스TV
-#EXTINF:0,Mnet
-plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C00579&stype=onair
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=Y01
 #EXTINF:0,채널A
-udp://239.192.47.4:49220/NEWS ■ Channel A
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=C2501
 #EXTINF:0,MBN
-https://mbn-mcdn.tving.com/mbn/live1500.smil/playlist.m3u8|Cookie=CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IioiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTAyMjA2MDV9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19;CloudFront-Signature=N-Op0XyyZpJ0JWePyK-s6QGsK2he7BJZhIFQDUUwv0njjZnymF-8ENyqSzN~IKIGGdZjHw6PJt3mP6ljoI8R-P1JNyANuxZpIP2IojW2JO6NTPkdq~6K13ayxIrfmtuEDpxWzaqWeGaaPHhxxbOPvM59b82fIbQ5tPXlJFibbhgUNt3me7bk8Nj0xiWHtUKaPAwC37WqvvwIgQYa7h08l8Y564PiCcH3Z4WRIloW7OcJLlS2JiTzxd05U7D-9uynnHstCD4hg2dRNYzOoczXQYOY~yObDS~-LsT1c3zWTmeX-dz79PP5OiuUwfZh5TMEf65w3QDxW531OAXBwAt4oA__;CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
-#EXTINF:0,tvN
-udp://239.192.62.66:49220/tvN
-#EXTINF:0,YTN
-plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C00593&stype=onair
-#EXTINF:0,JTBC2
-plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C15741&stype=onair
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=C2401
 #EXTINF:0,TV CHOSUN
 plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C01581&stype=onair
-#EXTINF:0,XtvN
-udp://239.192.57.6:49220/XtvN
-#EXTINF:0,O tvN
-plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C01143&stype=onair
-#EXTINF:0,Olive
-plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C00575&stype=onair
-#EXTINF:0,연합뉴스TV
-plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C01723&stype=onair
-#EXTINF:0,OCN
-plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C07381&stype=onair
 #EXTINF:0,TV CHOSUN 2
 plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C00585&stype=onair
+#EXTINF:0,Mnet
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C00579&stype=onair
+#EXTINF:0,tvN
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C00551&stype=onair
+#EXTINF:0,XtvN
+https://xtvn-mcdn.tving.com/xtvn/live1500.smil/playlist.m3u8|Cookie=CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IioiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTc0ODgxNDB9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19;CloudFront-Signature=LVUubj8PPk4g38XKEH5I6ETa~P56rpYIj2tOqmDgc0HO50JBXyffaukCIyz38zOWfPeXlyH2Dp6ihKc6XV57CIftLyncj5lxKcMKC0bvKphxO6xUNm3a0z1Jnk7oFZPcAoZAuW4sDbGjtB-WxXWp4wYEbnUxwu~him2lLtR0qsmY5QJESFp2MMyi0XH~9t3FVcTFndUd~h2bD4KKoO9ujiD02JEOZUZDIT2C93B8c4kYP8QdPAIo0JEavDIxcoUqyS7lD2-~xRu4UVWqxKOUJp-BANj-PM~tNPKzt6vJUG-74SQ2mSgeKhZAYgqOnSuaKcN2wkY19euCV6p0041rZw__;CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
+#EXTINF:0,JTBC2
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C15741&stype=onair
 #EXTINF:0,JTBC4
 plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C22041&stype=onair
+#EXTINF:0,Olive
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C00575&stype=onair
+#EXTINF:0,OCN
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C07381&stype=onair
 #EXTINF:0,MBC 무한도전
 plugin://plugin.video.wavvem/?contentid=PM1&mode=LIVE
 #EXTINF:0,KBS 1박 2일
