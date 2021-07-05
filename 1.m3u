@@ -1,4 +1,4 @@
-﻿#EXTM3U x-tvg-url="http://192.168.75.131:8000/list/HDD1/1.xml"
+#EXTCPlayListM3U::M3U
 #EXTINF:-1 tvg-id="15" tvg-name="EBS" tvg-logo="http://mapp.btvplus.co.kr/data/btvplus/admobd/channelLogo/nsepg_15.png" tvh-tags="교육",EBS
 udp://239.192.42.1:49220/EBS
 #EXTINF:-1 tvg-id="372" tvg-name="EBS Kids" tvg-logo="http://mapp.btvplus.co.kr/data/btvplus/admobd/channelLogo/nsepg_372.png" tvh-tags="만화",EBS Kids
