@@ -1,0 +1,188 @@
+=== OpenAI 앙상블 목표가 산출 분석 리포트 ===
+생성시각: 2025-08-10 18:00:12.128654
+============================================================
+
+[004310] 현대약품
+ - 평균매입가: 3890
+ - 목표가: 4050 (매입가 대비 4.11%)
+ - target_return: 0.0400
+ - reason: The stock is currently trading below its moving averages and RSI is low, indicating potential for upward movement. However, the absence of recent positive news nudges the target return lower.
+ - 뉴스 헤드라인(0개):
+   • (없음)
+------------------------------------------------------------
+[011170] 롯데케미칼
+ - 평균매입가: 62800
+ - 목표가: 64700 (매입가 대비 3.03%)
+ - target_return: 0.0300
+ - reason: The stock is currently oversold with an RSI of 28, indicating potential for a rebound. However, the absence of recent positive news and the negative trend in the 5-day and 20-day returns suggest a conservative target.
+ - 뉴스 헤드라인(0개):
+   • (없음)
+------------------------------------------------------------
+[033540] 파라텍
+ - 평균매입가: 1403
+ - 목표가: 1460 (매입가 대비 4.06%)
+ - target_return: 0.0400
+ - reason: The stock is currently in a neutral RSI range (58.09) and has room to grow towards the Bollinger upper band, but with no recent positive news, a conservative target return is set.
+ - 뉴스 헤드라인(0개):
+   • (없음)
+------------------------------------------------------------
+[034940] 조아제약
+ - 평균매입가: 1121
+ - 목표가: 1155 (매입가 대비 3.03%)
+ - target_return: 0.0300
+ - reason: RSI is low at 26.81, indicating potential for upward movement, but lack of recent positive news and the conservative approach due to technical indicators suggest a modest target.
+ - 뉴스 헤드라인(0개):
+   • (없음)
+------------------------------------------------------------
+[035420] NAVER
+ - 평균매입가: 234250
+ - 목표가: 241500 (매입가 대비 3.09%)
+ - target_return: 0.0300
+ - reason: Recent news headlines are absent, indicating uncertainty. The RSI is below 70, allowing for a conservative target return. The stock is currently trading below its moving averages, suggesting potential for recovery.
+ - 뉴스 헤드라인(0개):
+   • (없음)
+------------------------------------------------------------
+[042700] 한미반도체
+ - 평균매입가: 89800
+ - 목표가: 92500 (매입가 대비 3.01%)
+ - target_return: 0.0300
+ - reason: Recent news headlines are absent, indicating uncertainty. The RSI is below 70, allowing for a conservative target return. The price is also below the Bollinger upper band, suggesting limited upward pressure.
+ - 뉴스 헤드라인(0개):
+   • (없음)
+------------------------------------------------------------
+[053270] 구영테크
+ - 평균매입가: 2325
+ - 목표가: 2420 (매입가 대비 4.09%)
+ - target_return: 0.0400
+ - reason: The stock is currently at a neutral RSI of 50 and not near the upper Bollinger band, allowing for a modest upward target. However, the absence of recent positive news nudges the target return lower.
+ - 뉴스 헤드라인(0개):
+   • (없음)
+------------------------------------------------------------
+[053450] 세코닉스
+ - 평균매입가: 6130
+ - 목표가: 6380 (매입가 대비 4.08%)
+ - target_return: 0.0400
+ - reason: The stock is currently trading below its moving averages and RSI is at a reasonable level, allowing for a modest upside. With no recent positive news, a conservative target return is set.
+ - 뉴스 헤드라인(0개):
+   • (없음)
+------------------------------------------------------------
+[053950] 경남제약
+ - 평균매입가: 666
+ - 목표가: 686 (매입가 대비 3.00%)
+ - target_return: 0.0300
+ - reason: The stock is currently oversold with an RSI of 32.31, indicating potential for a rebound. However, the absence of positive news and the conservative approach due to technical indicators suggest a modest target return.
+ - 뉴스 헤드라인(0개):
+   • (없음)
+------------------------------------------------------------
+[064550] 바이오니아
+ - 평균매입가: 15076
+ - 목표가: 15550 (매입가 대비 3.14%)
+ - target_return: 0.0300
+ - reason: The stock is currently below its moving averages and the RSI is low, indicating potential for recovery. However, the absence of positive news and recent negative returns suggest a conservative target.
+ - 뉴스 헤드라인(0개):
+   • (없음)
+------------------------------------------------------------
+[092300] 현우산업
+ - 평균매입가: 2755
+ - 목표가: 2840 (매입가 대비 3.09%)
+ - target_return: 0.0300
+ - reason: The stock is currently in a lower RSI range (34.41), indicating potential for upward movement. However, the absence of positive news and the recent downtrend in 20-day returns suggest a conservative target.
+ - 뉴스 헤드라인(0개):
+   • (없음)
+------------------------------------------------------------
+[129260] 인터지스
+ - 평균매입가: 2870
+ - 목표가: 2960 (매입가 대비 3.14%)
+ - target_return: 0.0300
+ - reason: The stock is currently oversold with an RSI of 20. However, the absence of recent positive news and the overall bearish trend suggest a conservative target return.
+ - 뉴스 헤드라인(0개):
+   • (없음)
+------------------------------------------------------------
+[242040] 나무기술
+ - 평균매입가: 1624
+ - 목표가: 1675 (매입가 대비 3.14%)
+ - target_return: 0.0300
+ - reason: Recent news headlines are absent, indicating uncertainty. The RSI is low, suggesting potential for recovery, but the lack of positive news nudges the target return lower.
+ - 뉴스 헤드라인(0개):
+   • (없음)
+------------------------------------------------------------
+[263050] 유틸렉스
+ - 평균매입가: 1763
+ - 목표가: 1820 (매입가 대비 3.23%)
+ - target_return: 0.0300
+ - reason: The stock is currently at a low RSI of 35, indicating potential for upward movement, but with no recent positive news and being near the Bollinger lower band, a conservative target return is appropriate.
+ - 뉴스 헤드라인(0개):
+   • (없음)
+------------------------------------------------------------
+[270520] 앱트뉴로사이언스
+ - 평균매입가: 1278
+ - 목표가: 1320 (매입가 대비 3.29%)
+ - target_return: 0.0300
+ - reason: The stock is currently oversold with an RSI of 33.75, indicating potential for recovery. However, the absence of positive news and the recent downtrend suggest a conservative target return.
+ - 뉴스 헤드라인(0개):
+   • (없음)
+------------------------------------------------------------
+[311690] CJ 바이오사이언스
+ - 평균매입가: 10410
+ - 목표가: 10850 (매입가 대비 4.23%)
+ - target_return: 0.0400
+ - reason: The stock is currently trading below its moving averages and has a low RSI, indicating potential for upward movement. However, the absence of recent positive news nudges the target return lower.
+ - 뉴스 헤드라인(0개):
+   • (없음)
+------------------------------------------------------------
+[312610] 에이에프더블류
+ - 평균매입가: 1469
+ - 목표가: 1530 (매입가 대비 4.15%)
+ - target_return: 0.0400
+ - reason: The stock is currently trading below its moving averages and RSI is moderate, indicating potential for upward movement. However, the absence of recent positive news nudges the target return lower.
+ - 뉴스 헤드라인(0개):
+   • (없음)
+------------------------------------------------------------
+[321370] 센서뷰
+ - 평균매입가: 1318
+ - 목표가: 1360 (매입가 대비 3.19%)
+ - target_return: 0.0300
+ - reason: The stock is currently oversold with an RSI of 17.16, indicating potential for a rebound. However, the absence of positive news and the recent downtrend suggest a conservative target return.
+ - 뉴스 헤드라인(0개):
+   • (없음)
+------------------------------------------------------------
+[340930] 유일에너테크
+ - 평균매입가: 1777
+ - 목표가: 1850 (매입가 대비 4.11%)
+ - target_return: 0.0400
+ - reason: The stock is currently trading below its moving averages and has a low RSI, indicating potential for upward movement. However, the absence of recent positive news nudges the target return lower.
+ - 뉴스 헤드라인(0개):
+   • (없음)
+------------------------------------------------------------
+[347860] 알체라
+ - 평균매입가: 2803
+ - 목표가: 2890 (매입가 대비 3.10%)
+ - target_return: 0.0300
+ - reason: The stock is currently trading below its moving averages and has a low RSI, indicating potential for recovery. However, the absence of recent positive news and the negative 5-day return suggest a conservative target.
+ - 뉴스 헤드라인(0개):
+   • (없음)
+------------------------------------------------------------
+[348150] 고바이오랩
+ - 평균매입가: 5240
+ - 목표가: 5450 (매입가 대비 4.01%)
+ - target_return: 0.0400
+ - reason: The stock is currently trading below its moving averages and has a low RSI, indicating potential for upward movement. However, the absence of recent positive news and the conservative approach due to the technical snapshot suggest a modest target return.
+ - 뉴스 헤드라인(0개):
+   • (없음)
+------------------------------------------------------------
+[366030] 공구우먼
+ - 평균매입가: 4420
+ - 목표가: 4555 (매입가 대비 3.05%)
+ - target_return: 0.0300
+ - reason: The stock is currently oversold with an RSI of 34.39, indicating potential for a rebound. However, the absence of positive news and the recent negative performance suggest a conservative target return.
+ - 뉴스 헤드라인(0개):
+   • (없음)
+------------------------------------------------------------
+[405920] 나라셀라
+ - 평균매입가: 2940
+ - 목표가: 3060 (매입가 대비 4.08%)
+ - target_return: 0.0400
+ - reason: The stock is currently undervalued with an RSI of 36, indicating potential for upward movement. However, the absence of recent positive news nudges the target return lower.
+ - 뉴스 헤드라인(0개):
+   • (없음)
+------------------------------------------------------------
